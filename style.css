@@ -1,0 +1,40 @@
+#header{
+    width: 80%;
+    height: 100px;
+    margin: 0 auto;
+    text-align: center;
+    background-color: darksalmon;
+    opacity: 0.8;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 30px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    border-radius: 50%;
+
+}
+input{
+    width: 80px; ;
+    height: 36px;;
+}
+body{
+    
+    background-image: url(imagens/matematica-numeros.jpg);
+}
+
+  
+#content {
+    width: 80%;
+    height: 800px;
+    margin: 0 auto;
+    text-align: center;
+    
+   }
+   
+#foot {
+    width: 80%;
+    height: 50px;
+    margin: 0 auto;
+    text-align: center;  
+    border: 3px solid rgb(233, 174, 174);
+   }
